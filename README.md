@@ -1,4 +1,5 @@
 # card-slider
+## Check live site at :- https://card-swiper-demo.netlify.app/
 it is a basic card slider demo with html css and js 
 # this slider allows you to add number of data nto card and create more cards for each data automatically uising mapping 
 i have added comments for each function indetails
